@@ -1,0 +1,7 @@
+  CCC         A            SSSSS
+CC   CC      A A         SS     SS
+CC          A   A        SS     
+CC         A     A         SSSSS
+CC        AA AAA AA             SS
+CC   CC  A         A            SS 
+  CCC                    SSSSSSS 

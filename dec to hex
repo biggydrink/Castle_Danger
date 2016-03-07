@@ -1,0 +1,15 @@
+#Trying to make a program to quickly convert three dec values to hex values (mostly for colors in CSS)
+
+def getinput():
+    colors = []
+    for i in range(3):
+        color = input("What's the decimal value for your first color?")
+        if color < 0 or color > 255:
+            color = input("Please input a number between 0 and 255.")
+        if type(color) != int:
+            color = input("Please enter a number between 0 and 255.")
+        colors.append(color)
+
+def getHex():
+    for i in range(3):
+        colors[i]
